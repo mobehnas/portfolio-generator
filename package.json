@@ -18,5 +18,6 @@
   "homepage": "https://github.com/mobehnas/portfolio-generator#readme",
   "dependencies": {
     "inquirer": "^8.2.4"
-  }
+  },
+  "devDependencies": {}
 }
